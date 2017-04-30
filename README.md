@@ -25,7 +25,7 @@
 *   People talk in Czech, arrange lunch together, I understand but they do not invite me. (Maybe just Xenophobia)
 *   Same work, same mistake, I am yelled, but that guy receives compassion.
 *   Also that guy can go to his home without notifying, but I cannot.
-*   A guy interrupts you in the meeting, says exact same idea you said five minutes ago.
+*   A guy interrupts me in the meeting, says exact same idea I said five minutes ago.
 *   I quit the job, 8 months ago and Still can't find a job.
 
 ![glass ceiling](img/ceiling.jpg)
